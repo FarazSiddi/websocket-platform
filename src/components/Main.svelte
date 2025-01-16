@@ -1,8 +1,8 @@
 <script>
     const buttons = [
-      { id: 1, image: '/images/icon1.png', text: 'Button 1' },
-      { id: 2, image: '/images/icon2.png', text: 'Button 2' },
-      { id: 3, image: '/images/icon3.png', text: 'Button 3' },
+      { id: 1, image: '/images/icon1.png', text: 'Filler' },
+      { id: 2, image: '/images/icon2.png', text: 'Connect 4' },
+      { id: 3, image: '/images/icon3.png', text: 'Battleship' },
       { id: 4, image: '/images/icon4.png', text: 'Button 4' },
       { id: 5, image: '/images/icon5.png', text: 'Button 5' },
       { id: 6, image: '/images/icon6.png', text: 'Button 6' },
